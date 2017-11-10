@@ -1,6 +1,5 @@
 var fs = require("fs")
 var connectionChance
-var maxConnections
 var amountOfNodes
 var graph
 
@@ -25,7 +24,6 @@ function constructGraph(){
 
 
 function main(){
-    maxConnections = 5
     amountOfNodes = 20
     connectionChance = 0.1
     var numberOfGraphs = 20
