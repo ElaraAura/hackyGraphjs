@@ -1,0 +1,100 @@
+ ===================================customGraph-0.txt===========================================
+brute pool size:5
+brute pool: [19, 2, 4, 15, 5]
+jury pool size:5
+jury pool list: [3, 19, 4, 15, 5]
+===================================customGraph-1.txt===========================================
+brute pool size:5
+brute pool: [19, 4, 6, 12, 10]
+jury pool size:5
+jury pool list: [19, 20, 1, 6, 8]
+===================================customGraph-2.txt===========================================
+brute pool size:6
+brute pool: [13, 16, 4, 18, 20, 3]
+jury pool size:6
+jury pool list: [13, 17, 16, 4, 12, 2]
+===================================customGraph-3.txt===========================================
+brute pool size:6
+brute pool: [11, 5, 18, 9, 10, 14]
+jury pool size:6
+jury pool list: [11, 5, 20, 18, 9, 10]
+===================================customGraph-4.txt===========================================
+brute pool size:5
+brute pool: [18, 3, 10, 4, 15]
+jury pool size:5
+jury pool list: [18, 3, 10, 11, 15]
+===================================customGraph-5.txt===========================================
+brute pool size:5
+brute pool: [20, 3, 15, 2, 19]
+jury pool size:5
+jury pool list: [20, 3, 15, 19, 1]
+===================================customGraph-6.txt===========================================
+brute pool size:5
+brute pool: [6, 5, 13, 20, 15]
+jury pool size:5
+jury pool list: [6, 9, 20, 13, 5]
+===================================customGraph-7.txt===========================================
+brute pool size:5
+brute pool: [17, 11, 16, 20, 10]
+jury pool size:5
+jury pool list: [17, 4, 11, 20, 10]
+===================================customGraph-8.txt===========================================
+brute pool size:7
+brute pool: [18, 13, 5, 1, 10, 12, 7]
+jury pool size:7
+jury pool list: [18, 13, 5, 6, 1, 10, 7]
+===================================customGraph-9.txt===========================================
+brute pool size:4
+brute pool: [9, 20, 6, 19]
+jury pool size:4
+jury pool list: [16, 9, 20, 6]
+===================================customGraph-10.txt===========================================
+brute pool size:4
+brute pool: [18, 6, 13, 15]
+jury pool size:3
+jury pool list: [18, 10, 11]
+===================================customGraph-11.txt===========================================
+brute pool size:6
+brute pool: [15, 9, 20, 11, 4, 17]
+jury pool size:6
+jury pool list: [15, 3, 9, 20, 11, 17]
+===================================customGraph-12.txt===========================================
+brute pool size:4
+brute pool: [19, 20, 9, 12]
+jury pool size:3
+jury pool list: [18, 19, 3]
+===================================customGraph-13.txt===========================================
+brute pool size:3
+brute pool: [13, 8, 11]
+jury pool size:3
+jury pool list: [3, 4, 9]
+===================================customGraph-14.txt===========================================
+brute pool size:8
+brute pool: [5, 14, 11, 1, 18, 19, 10, 13]
+jury pool size:8
+jury pool list: [5, 14, 6, 11, 18, 19, 10, 13]
+===================================customGraph-15.txt===========================================
+brute pool size:5
+brute pool: [20, 19, 15, 16, 4]
+jury pool size:5
+jury pool list: [2, 18, 10, 12, 16]
+===================================customGraph-16.txt===========================================
+brute pool size:7
+brute pool: [20, 10, 1, 2, 14, 7, 16]
+jury pool size:7
+jury pool list: [20, 10, 11, 1, 2, 14, 16]
+===================================customGraph-17.txt===========================================
+brute pool size:6
+brute pool: [4, 20, 17, 11, 10, 2]
+jury pool size:6
+jury pool list: [4, 5, 20, 17, 11, 12]
+===================================customGraph-18.txt===========================================
+brute pool size:7
+brute pool: [19, 20, 6, 9, 16, 2, 7]
+jury pool size:7
+jury pool list: [19, 20, 11, 6, 3, 5, 15]
+===================================customGraph-19.txt===========================================
+brute pool size:5
+brute pool: [20, 11, 8, 18, 4]
+jury pool size:5
+jury pool list: [14, 20, 8, 7, 18]
