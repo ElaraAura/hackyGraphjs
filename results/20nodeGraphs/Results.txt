@@ -1,0 +1,100 @@
+ ===================================customGraph-0.txt===========================================
+brute pool size:5
+brute pool: [2, 20, 13, 19, 1]
+jury pool size:5
+jury pool list: [18, 2, 20, 5, 13]
+===================================customGraph-1.txt===========================================
+brute pool size:4
+brute pool: [17, 12, 6, 9]
+jury pool size:4
+jury pool list: [7, 5, 12, 9]
+===================================customGraph-2.txt===========================================
+brute pool size:6
+brute pool: [20, 3, 15, 12, 11, 17]
+jury pool size:6
+jury pool list: [20, 3, 15, 18, 6, 11]
+===================================customGraph-3.txt===========================================
+brute pool size:8
+brute pool: [12, 14, 20, 4, 6, 16, 17, 7]
+jury pool size:8
+jury pool list: [12, 14, 20, 4, 6, 1, 2, 13]
+===================================customGraph-4.txt===========================================
+brute pool size:7
+brute pool: [17, 3, 16, 5, 13, 8, 9]
+jury pool size:6
+jury pool list: [4, 3, 16, 20, 13, 6]
+===================================customGraph-5.txt===========================================
+brute pool size:5
+brute pool: [12, 17, 6, 7, 2]
+jury pool size:5
+jury pool list: [15, 12, 6, 7, 19]
+===================================customGraph-6.txt===========================================
+brute pool size:4
+brute pool: [10, 3, 8, 20]
+jury pool size:4
+jury pool list: [14, 5, 3, 13]
+===================================customGraph-7.txt===========================================
+brute pool size:6
+brute pool: [3, 6, 5, 7, 12, 9]
+jury pool size:6
+jury pool list: [3, 6, 5, 7, 12, 9]
+===================================customGraph-8.txt===========================================
+brute pool size:5
+brute pool: [5, 2, 8, 14, 15]
+jury pool size:5
+jury pool list: [5, 11, 12, 6, 7]
+===================================customGraph-9.txt===========================================
+brute pool size:4
+brute pool: [8, 9, 1, 18]
+jury pool size:4
+jury pool list: [8, 5, 13, 16]
+===================================customGraph-10.txt===========================================
+brute pool size:5
+brute pool: [20, 7, 2, 15, 10]
+jury pool size:5
+jury pool list: [20, 19, 5, 7, 9]
+===================================customGraph-11.txt===========================================
+brute pool size:5
+brute pool: [15, 13, 20, 5, 10]
+jury pool size:5
+jury pool list: [15, 1, 13, 20, 7]
+===================================customGraph-12.txt===========================================
+brute pool size:5
+brute pool: [20, 14, 19, 1, 10]
+jury pool size:5
+jury pool list: [20, 13, 3, 6, 11]
+===================================customGraph-13.txt===========================================
+brute pool size:4
+brute pool: [9, 10, 2, 15]
+jury pool size:4
+jury pool list: [4, 9, 10, 2]
+===================================customGraph-14.txt===========================================
+brute pool size:6
+brute pool: [13, 4, 5, 17, 16, 15]
+jury pool size:6
+jury pool list: [13, 4, 5, 17, 16, 15]
+===================================customGraph-15.txt===========================================
+brute pool size:5
+brute pool: [7, 20, 19, 4, 18]
+jury pool size:5
+jury pool list: [17, 20, 13, 19, 4]
+===================================customGraph-16.txt===========================================
+brute pool size:5
+brute pool: [17, 9, 14, 1, 16]
+jury pool size:5
+jury pool list: [10, 19, 17, 9, 11]
+===================================customGraph-17.txt===========================================
+brute pool size:3
+brute pool: [6, 14, 20]
+jury pool size:3
+jury pool list: [10, 2, 13]
+===================================customGraph-18.txt===========================================
+brute pool size:5
+brute pool: [14, 9, 8, 7, 13]
+jury pool size:5
+jury pool list: [14, 9, 10, 8, 7]
+===================================customGraph-19.txt===========================================
+brute pool size:5
+brute pool: [20, 5, 7, 12, 10]
+jury pool size:5
+jury pool list: [20, 3, 18, 11, 7]
